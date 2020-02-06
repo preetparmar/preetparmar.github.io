@@ -1,0 +1,19 @@
+# Project template
+- layout: left
+  name: Search Console API
+  link: https://github.com/preetparmar/Search-Console-API
+  github: https://github.com/preetparmar/Search-Console-API
+  # quote: >
+  #   Short overview of the project (optional)
+  description: | # this will include new lines to allow paragraphs
+    Custom application written in <mark>Python</mark> to export Search Console data with no limitations on number of rows and types of reports. <br />
+    Library used: tkinter, apiclient, google_auth_oauth, pandas, pickle, datetime, os
+
+- layout: left
+  name: Project 2
+  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    Short overview of the project (optional)
+  description: | # this will include new lines to allow paragraphs
+    Description about the work on/with the project

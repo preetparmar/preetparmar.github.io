@@ -1,0 +1,30 @@
+# Experience template
+- layout: left
+  company: Databases
+  # link: https://www.ampagency.com/
+  # job_title: Business Intelligence Analyst
+  # dates: July 2018 - Present
+  # quote: >
+  #  AMP is a full-service digital marketing agency. We craft beautifully useful, connected brand ecosystems that grow businesses and build enduring relationships between brands and humans.
+  description: | # this will include new lines to allow paragraphs
+    SQL Server, MySQL, PostgreSQL, Oracle, AWS, Toad Data Modeler
+
+- layout: left
+  company: Data Extraction and Transformation Tools
+  description: |
+    Alteryx, SQL Server Integration Services, Talend
+
+- layout: left
+  company: Data Visualization Tools
+  description: |
+    Power BI, Tableau, Qlik, Data Studio, Power Pivot
+
+- layout: left
+  company: Marketing Tools
+  description: |
+    Google Analytics, Adobe Analytics, Google Camapaign Manager, Facebook Ads Manager, Snapchat Ads for Business, Criteo, Walmart Advertising
+
+- layout: left
+  company: Languages
+  description: |
+    Python, R, SQL, Javascript

@@ -1,0 +1,60 @@
+# Experience template
+- layout: left
+  company: AMP Agency
+  link: https://www.ampagency.com/
+  job_title: Business Intelligence Analyst
+  dates: July 2018 - Present
+  # quote: >
+  #  AMP is a full-service digital marketing agency. We craft beautifully useful, connected brand ecosystems that grow businesses and build enduring relationships between brands and humans.
+  description: | # this will include new lines to allow paragraphs
+    Line 1 <br />
+    Line 2 <br />
+    Line 3
+
+- layout: left
+  company: Everbridge
+  link: https://www.everbridge.com/
+  job_title: Market Analyst
+  dates: Date Range (eg. November 2016 - present)
+  # quote: >
+  #  Everbridge is a company that sells communications services for notifications of emergencies.
+  description: | # this will include new lines to allow paragraphs
+    Line 1 <br />
+    Line 2 <br />
+    Line 3
+
+- layout: left
+  company: PN Telecom
+  # link: https://www.everbridge.com/
+  job_title: Co-Founder
+  dates: Date Range (eg. November 2016 - present)
+  # quote: >
+  #  Everbridge is a company that sells communications services for notifications of emergencies.
+  description: | # this will include new lines to allow paragraphs
+    Line 1 <br />
+    Line 2 <br />
+    Line 3
+
+- layout: left
+  company: Nokia (Microsoft) Care
+  # link: https://www.everbridge.com/
+  job_title: Data Analyst
+  dates: Date Range (eg. November 2016 - present)
+  # quote: >
+  #  Everbridge is a company that sells communications services for notifications of emergencies.
+  description: | # this will include new lines to allow paragraphs
+    Line 1 <br />
+    Line 2 <br />
+    Line 3
+
+- layout: left
+  company: Ideal Computer Center (Hewlett-Packard World)
+  # link: https://www.everbridge.com/
+  job_title: Sales Analyst
+  dates: Date Range (eg. November 2016 - present)
+  # quote: >
+  #  Everbridge is a company that sells communications services for notifications of emergencies.
+  description: | # this will include new lines to allow paragraphs
+    Line 1 <br />
+    Line 2 <br />
+    Line 3

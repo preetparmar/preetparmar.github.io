@@ -1,0 +1,22 @@
+# Education Template
+- layout: left
+  name: Northeastern University
+  dates: 2015 - 2017
+  link: https://www.northeastern.edu/
+  qualification: Masters of Science - Engineering Management
+  # quote: >
+  #   Short institution or course description (optional)
+  description: | # this will include new lines to allow paragraphs
+    Gained technical knowledge in the field of Data with the help of courses in Database Design and Development, Datawarehouse, Business Intelligence and Machine Learning.<br/>
+    Also gained crucial foundational knowledge from courses in Probability and Statistics, Business Analysis, Economic Decision Making and Project Management. <br/>
+    Got hands on experience doing various projects pertaining to Databases and Business Intelligence, along with more business knowledge with projects in Economic Decision Making, Business Analysis and Project Management.
+
+- layout: left
+  name: Pune University
+  dates: Date Range (eg. 2016 - 2019)
+  link: http://www.unipune.ac.in/
+  qualification: Bachelors of Engineering - Electronics Engineering
+  # quote: >
+  #   Short institution or course description (optional)
+  description: | # this will include new lines to allow paragraphs
+    Description of qualification
