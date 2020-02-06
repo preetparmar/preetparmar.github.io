@@ -11,7 +11,7 @@
     Line 2 <br />
     Line 3
 
-- layout: right
+- layout: left
   company: Everbridge
   link: https://www.everbridge.com/
   job_title: Market Analyst
@@ -35,7 +35,7 @@
     Line 2 <br />
     Line 3
 
-- layout: right
+- layout: left
   company: Nokia (Microsoft) Care
   # link: https://www.everbridge.com/
   job_title: Data Analyst
