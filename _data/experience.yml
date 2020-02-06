@@ -19,9 +19,9 @@
   # quote: >
   #  Everbridge is a company that sells communications services for notifications of emergencies.
   description: | # this will include new lines to allow paragraphs
-    Line 1
-    Line 2
-    Line 3
+    Line 1 <br />
+    Line 2 <br />
+    Line 3 <br />
 
 - layout: left
   company: PN Telecom
@@ -35,7 +35,7 @@
     Line 2 <br />
     Line 3
 
-- layout: left
+- layout: right
   company: Nokia (Microsoft) Care
   # link: https://www.everbridge.com/
   job_title: Data Analyst
