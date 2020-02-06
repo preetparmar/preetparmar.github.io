@@ -11,7 +11,7 @@
     Line 2 <br />
     Line 3
 
-- layout: left
+- layout: right
   company: Everbridge
   link: https://www.everbridge.com/
   job_title: Market Analyst
@@ -22,7 +22,7 @@
     Line 1
 
     Line 2
-    
+
     Line 3
 
 - layout: left
