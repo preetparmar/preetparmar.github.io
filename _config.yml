@@ -45,16 +45,13 @@ linkedin_username: preetparmar
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.PNG
 about_content: | # this will include new lines to allow paragraphs
-# Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>. <br/>
-# You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-#   - Lists
-#   - Tables
-#   - <a href="google.com">Links</a>
-#   - Images
-  - Rich experience in breaking complex data into simple logical stories
-  - Excellent grasp in leading technology including Tableau, SQL, and R
-  - Experience of a startup along side with mid-sized companies.
-  - Strong abilities to act like a customer and resonate with their problems to suggest problem-solving solutions 
+Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>. <br/>
+You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
+  - Lists
+  - Tables
+  - <a href="google.com">Links</a>
+  - Images
+
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
 
