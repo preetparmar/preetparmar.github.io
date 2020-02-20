@@ -20,11 +20,11 @@
     Power BI, Tableau, Qlik, Data Studio, Power Pivot
 
 - layout: left
-  company: Marketing Tools
-  description: |
-    Google Analytics, Adobe Analytics, Google Camapaign Manager, Facebook Ads Manager, Snapchat Ads for Business, Criteo, Walmart Advertising
-
-- layout: left
   company: Languages
   description: |
     Python, R, SQL, Javascript
+
+- layout: left
+  company: Marketing Tools
+  description: |
+    Google Analytics, Adobe Analytics, Google Camapaign Manager, Facebook Ads Manager, Snapchat Ads for Business, Criteo, Walmart Advertising
