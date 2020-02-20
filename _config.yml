@@ -45,7 +45,8 @@ linkedin_username: preetparmar
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.PNG
 about_content: | # this will include new lines to allow paragraphs
-  Thorough and meticulous Data Analyst passionate about helping businesses succeed. Former small business owner. </br>
+  Thorough and meticulous Data Analyst passionate about helping businesses succeed. Former small business owner.
+  
   Possessing strong technical skills in Data Analytics tools and languages
 
 # Projects Section
