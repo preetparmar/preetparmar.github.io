@@ -6,14 +6,15 @@
   # quote: >
   #   Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
-    Custom application written in <mark>Python</mark> to export Search Console data with no limitations on number of rows and types of reports. <br />
+    Custom application written in <mark>Python</mark> to export Search Console data with no limitations on number of rows and types of reports. <br/>
     Library used: tkinter, apiclient, google_auth_oauth, pandas, pickle, datetime, os
 
 - layout: left
-  name: Project 2
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
-    Short overview of the project (optional)
+  name: My Snake Game
+  link: https://github.com/preetparmar/Snake-Game
+  github: https://github.com/preetparmar/Snake-Game
+  # quote: >
+  #   Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    Being a 90s kid, Snake Game has always been close to my heart. <br/>
+    I wanted to make this game my own, so I wrote the game in <mark>Python</mark> with the use of **PyGame** module.
