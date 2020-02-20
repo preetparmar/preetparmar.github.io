@@ -7,6 +7,7 @@
   #   Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
     Custom application written in <mark>Python</mark> to export Search Console data with no limitations on number of rows and types of reports. <br/>
+    Wrote my own class for this purpose for the ease of extensibility and maintainance. <br/>
     Library used: tkinter, apiclient, google_auth_oauth, pandas, pickle, datetime, os
 
 - layout: left
