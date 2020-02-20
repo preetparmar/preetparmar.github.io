@@ -51,10 +51,7 @@ about_content: | # this will include new lines to allow paragraphs
   #   - Tables
   #   - <a href="google.com">Links</a>
   #   - Images
-- Rich experience in breaking complex data into simple logical stories
-- Excellent grasp in leading technology including Tableau, SQL, and R
-- Experience of a startup along side with mid-sized companies.
-- Strong abilities to act like a customer and resonate with their problems to suggest problem-solving solutions 
+Rich experience in breaking complex data into simple logical stories
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
