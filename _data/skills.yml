@@ -7,7 +7,7 @@
   # quote: >
   #  AMP is a full-service digital marketing agency. We craft beautifully useful, connected brand ecosystems that grow businesses and build enduring relationships between brands and humans.
   description: | # this will include new lines to allow paragraphs
-    SQL Server, MySQL, PostgreSQL, Oracle, AWS, Toad Data Modeler
+    SQL Server, MySQL, PostgreSQL, Oracle, AWS, Salesforce, Toad Data Modeler
 
 - layout: left
   company: Data Extraction and Transformation Tools
