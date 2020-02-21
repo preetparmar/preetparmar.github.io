@@ -42,22 +42,27 @@
   company: Nokia (Microsoft) Care
   # link: https://www.everbridge.com/
   job_title: Data Analyst
-  dates: Date Range (eg. November 2016 - present)
+  dates: January 2013 - June 2015
   # quote: >
-  #  Everbridge is a company that sells communications services for notifications of emergencies.
+  #  Quote goes here
   description: | # this will include new lines to allow paragraphs
-    Line 1 <br />
-    Line 2 <br />
-    Line 3
+    - Data story teller, mining data from different data sources such as SQL Server, Oracle and Salesforce.<br/>
+    - Created various B2C Predictive and Descriptive analytics using R and Tableau.<br/>
+    - Designed, implemented and maintained database models in RDBMS.<br/>
+    - Redesigned inventory database, enhancing the efficiency and accuracy by 24%.<br/>
+    - Forecasted and audited inventory utilization with a success rate of 82% and managed daily financial transactions.<br/>
+    - Orchestrated, analyzed and lead various marketing campaigns.
 
 - layout: left
   company: Ideal Computer Center (Hewlett-Packard World)
   # link: https://www.everbridge.com/
   job_title: Sales Analyst
-  dates: Date Range (eg. November 2016 - present)
+  dates: July 2012 - December 2012
   # quote: >
-  #  Everbridge is a company that sells communications services for notifications of emergencies.
+  #  Quote goes here
   description: | # this will include new lines to allow paragraphs
-    Line 1 <br />
-    Line 2 <br />
-    Line 3
+    - Performed Data Profiling to learn more about user behavior and draw conclusion based on that.<br/>
+    - Wrote SQL queries to import data from SQL Server for data analysis and behavior.<br/>
+    - Improved statistical efficiency and provided weekly reports to senior management.<br/>
+    - Boosted sales in assigned territory by 28% in 6 months by directing various marketing campaigns.<br/>
+    - Partnered with sales department to specify customer requirements, offer technical solution and close the deal.<br/>
