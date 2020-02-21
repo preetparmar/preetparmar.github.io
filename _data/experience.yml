@@ -19,9 +19,11 @@
   # quote: >
   #  Everbridge is a company that sells communications services for notifications of emergencies.
   description: | # this will include new lines to allow paragraphs
-    Line 1 <br />
-    Line 2 <br />
-    Line 3 <br />
+    - Designed business models for senior management helping them better see their goals, progress and data trends.<br />
+    - Provided AD hoc analysis and reports to Executive level management team.<br />
+    - Analyzed data using Tableau and salesforce bringing automation to the system.<br />
+    - Communicated and documented researched information to assist cross-organizational teams in various projects.<br/>
+    - Worked on various ROI models, Competitive, SWOT analysis to give the company an edge over competition.
 
 - layout: left
   company: PN Telecom
