@@ -27,8 +27,8 @@
   # quote: >
   #   Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
-    Created my own Telegram Bot using a Python Wrapper <br/>
-    Added some functionalities:<br/>
+    Created my own Telegram Bot using a <mark>Python</mark> Wrapper <br/>
+    Added some functionalities:
     - Get Weather
     - Get Definition and Example of the given Word
     - Get a random Meme
