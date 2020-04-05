@@ -19,3 +19,18 @@
   description: | # this will include new lines to allow paragraphs
     Being a 90s kid, Snake Game has always been close to my heart. <br/>
     I wanted to make this game my own, so I wrote the game in <mark>Python</mark> with the use of **PyGame** module.
+
+- layout: left
+  name: My Telegram Bot
+  link: https://github.com/preetparmar/Telegram-Bot
+  github: https://github.com/preetparmar/Telegram-Bot
+  # quote: >
+  #   Short overview of the project (optional)
+  description: | # this will include new lines to allow paragraphs
+    Created my own Telegram Bot using a Python Wrapper <br/>
+    Added some functionalities:<br/>
+    - Get Weather
+    - Get Definition and Example of the given Word
+    - Get a random Meme
+    - Get a random Dog Picture! <3 Aww!!
+
