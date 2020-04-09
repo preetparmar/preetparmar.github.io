@@ -29,8 +29,8 @@
   description: | # this will include new lines to allow paragraphs
     Created my own Telegram Bot using a <mark>Python</mark> Wrapper <br/>
     Added some functionalities:
-    - Get Weather
-    - Get Definition and Example of the given Word
-    - Get a random Meme
-    - Get a random Dog Picture! <3 Aww!!
+    - Weather App
+    - Dictionary
+    - Your personal Bartender
+    - And more...
 
