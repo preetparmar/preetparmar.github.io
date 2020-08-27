@@ -1,4 +1,4 @@
-# My Portfolio ![](./assets/hello.gif | width=45 | height=30)
+# My Portfolio <img src="/assets/hello.gif" width="40" height="35"/>
 
 You can find my portfolio here: [links](https://preetparmar.github.io/)<br/>
 Feel free to reach out with any new ideas pertaining to Data, Machine Learning, AI, Python and New Technology.<br/>
