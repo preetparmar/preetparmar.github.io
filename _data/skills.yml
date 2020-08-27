@@ -17,7 +17,7 @@
 - layout: left
   company: Data Visualization Tools
   description: |
-    Power BI, Tableau, Qlik, Data Studio, Power Pivot
+    Power BI, Tableau, Qlik, Google Data Studio, Power Pivot
 
 - layout: left
   company: Languages
@@ -27,7 +27,7 @@
 - layout: left
   company: Marketing Tools
   description: |
-    Google Analytics, Adobe Analytics, Google Camapaign Manager, Facebook Ads Manager, Snapchat Ads for Business, Criteo, Walmart Advertising
+    Google Analytics, Adobe Analytics, Google Camapaign Manager, Facebook Ads Manager, Snapchat Ads for Business, Criteo, Walmart Advertising, Jivox
 
 # - layout: left
 #   company: General Tools
