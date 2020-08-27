@@ -36,8 +36,8 @@
 
 - layout: left
   name: Kaggle API
-  link: https://github.com/preetparmar/Kagge-API
-  github: https://github.com/preetparmar/Kagge-API
+  link: https://github.com/preetparmar/Kaggle-API
+  github: https://github.com/preetparmar/Kaggle-API
   # quote: >
   #   Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
