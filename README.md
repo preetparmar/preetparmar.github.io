@@ -1,4 +1,4 @@
-# My Portfolio
+# My Portfolio ![](./assets/test.gif)
 
 You can find my portfolio here: [links](https://preetparmar.github.io/)<br/>
 Feel free to reach out with any new ideas pertaining to Data, Machine Learning, AI, Python and New Technology.<br/>
@@ -8,4 +8,3 @@ Credits for the resume template: https://github.com/sproogen/modern-resume-theme
 ---
 Please feel free to reach out to me at: **preetparmar@outlook.com**
 
-![](test.gif)
