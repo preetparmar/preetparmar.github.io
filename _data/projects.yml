@@ -34,3 +34,17 @@
     - Your personal Bartender
     - And more...
 
+- layout: left
+  name: Kaggle API
+  link: https://github.com/preetparmar/Kagge-API
+  github: https://github.com/preetparmar/Kagge-API
+  # quote: >
+  #   Short overview of the project (optional)
+  description: | # this will include new lines to allow paragraphs
+    Created my class for Kaggle API in <mark>Python</mark><br/>
+    Added some functionalities:
+    - Search for Competitions using name and category
+    - Get list of all the files for a competition
+    - Download all the files for a competition
+    - Download a specific file for a competion
+    - Will be adding more functions...
