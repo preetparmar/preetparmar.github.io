@@ -8,4 +8,4 @@ Credits for the resume template: https://github.com/sproogen/modern-resume-theme
 ---
 Please feel free to reach out to me at: **preetparmar@outlook.com**
 
-![](giphy.webp)
+![](test.gif)
