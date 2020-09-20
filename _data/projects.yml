@@ -11,14 +11,16 @@
     Library used: tkinter, apiclient, google_auth_oauth, pandas, pickle, datetime, os
 
 - layout: left
-  name: My Snake Game
-  link: https://github.com/preetparmar/Snake-Game
-  github: https://github.com/preetparmar/Snake-Game
+  name: My Flappy Bird
+  link: https://github.com/preetparmar/Flappy-Bird
+  github: https://github.com/preetparmar/Flappy-Bird
   # quote: >
   #   Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
-    Being a 90s kid, Snake Game has always been close to my heart. <br/>
-    I wanted to make this game my own, so I wrote the game in <mark>Python</mark> with the use of **PyGame** module.
+    Recreated Flappy Bird, in <mark>Python</mark> using **PyGame** module.<br/>
+    Understood how to use different images and sounds and incorporate that into the game.<br/>
+    Added animation using set of images.
+    
 
 - layout: left
   name: My Telegram Bot
@@ -48,3 +50,13 @@
     - Download all the files for a competition
     - Download a specific file for a competion
     - Will be adding more functions...
+
+- layout: left
+  name: My Snake Game
+  link: https://github.com/preetparmar/Snake-Game
+  github: https://github.com/preetparmar/Snake-Game
+  # quote: >
+  #   Short overview of the project (optional)
+  description: | # this will include new lines to allow paragraphs
+    Being a 90s kid, Snake Game has always been close to my heart. <br/>
+    I wanted to make this game my own, so I wrote the game in <mark>Python</mark> with the use of **PyGame** module.
