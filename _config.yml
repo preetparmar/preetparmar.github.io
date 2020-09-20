@@ -65,9 +65,10 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  Aside from all the fun activites mentioned above, I love to **Dance**. I was a proud owner of my own dance studio where I have trained more than 100 people, got featured in a local movie and performed in more than 50 live events.
+  I am a National Player of Handball. I have represented my University in various sports like Basket Ball, Football, Table Tennis and Cricket.
+  When I am not dancing, I play a lot of **PC games** (mostly First Person Shooters).
+  I love to learn something new. Some random things I have learned include Photoshop, Premier Pro, Sketching, Playing Drums...
 
 # Footer
 footer_show_references: false
