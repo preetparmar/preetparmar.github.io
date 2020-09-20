@@ -7,9 +7,13 @@
   # quote: >
   #  AMP is a full-service digital marketing agency. We craft beautifully useful, connected brand ecosystems that grow businesses and build enduring relationships between brands and humans.
   description: | # this will include new lines to allow paragraphs
-    Line 1 <br />
-    Line 2 <br />
-    Line 3
+    - Created automation pipeline using Power BI datflows, Microsoft Flows and Power BI Dashboards.<br />
+    - Wrote custom python scripts to fetch data from various platforms.<br />
+    - Designed and maintained more than 5 different data models for different clients.<br />
+    - Created custom dashboards and views to address various requirements.<br />
+    - Trained multiple people in various business intelligence tools and database structures.<br />
+    - Lead projects in Data Automation, Data Visualizaitons and Site Analytics.<br />
+    - Provided anlytical support to different team members.<br />
 
 - layout: left
   company: Everbridge
