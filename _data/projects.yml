@@ -49,6 +49,6 @@
     I was able to recreate some of the classic games in <mark>Python</mark> with the use of **PyGame** module.<br/>
     Understood how to use different images and sounds and incorporate that into the game.<br/>
     Added animation using a set of images.<br/>
-    Games:
-      - Snake Game
-      - Flappy Bird
+    Games:<br/>
+      - Snake Game<br/>
+      - Flappy Bird<br/>
