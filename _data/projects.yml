@@ -10,7 +10,6 @@
     Wrote my own class for this purpose for the ease of extensibility and maintainance. <br/>
     Library used: tkinter, apiclient, google_auth_oauth, pandas, pickle, datetime, os
 
-<summary>
 - layout: left
   name: My Telegram Bot
   link: https://github.com/preetparmar/Telegram-Bot
@@ -24,7 +23,6 @@
     - Dictionary
     - Your personal Bartender
     - And more...
-</summary>
 
 - layout: left
   name: Kaggle API
